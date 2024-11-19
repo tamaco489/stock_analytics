@@ -1,0 +1,4 @@
+.env
+/archive
+*bk
+terraform/iam_list/*
